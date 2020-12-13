@@ -1,4 +1,4 @@
-module Ch22.Person where
+module Person where
 
 import Ch22.Reader
 import Control.Applicative

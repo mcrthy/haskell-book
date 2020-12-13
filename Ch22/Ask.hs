@@ -1,4 +1,4 @@
-module Ch22.Ask where
+module Ask where
 
 import Ch22.Reader
 
